@@ -1,0 +1,9 @@
+27100 Event logs
+27101 Log Name
+27102 Entry Type
+27103 Event ID
+27104 Machine Name
+27105 Source
+27106 Time Generated
+27107 Time Written
+27108 Message

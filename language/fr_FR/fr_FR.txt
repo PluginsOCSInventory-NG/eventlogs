@@ -1,0 +1,9 @@
+27100 Journal d'évènement
+27101 Nom du journal
+27102 Type de saisie
+27103 ID de l'événement
+27104 Nom de la machine
+27105 Source
+27106 Heure de génération
+27107 Heure d'écriture
+27108 Message

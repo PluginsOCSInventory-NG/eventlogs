@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hookstore>
+    <hook type="lang">
+        <value>en_GB</value>
+        <value>fr_FR</value>
+    </hook>
+    <hook type="cdentry">
+        <identifier>cd_eventlogs</identifier>
+        <translation>27100</translation>
+        <category>other</category>
+        <available>eventlogs</available>
+    </hook>
+</hookstore>

@@ -1,0 +1,13 @@
+{
+"displayName" : "Event Logs",
+"author" : ["Noé POIRIER"],
+"contributor" : ["Léa DROGUET", "Rudy LAURENT"],
+"supportedAgent" : ["Windows"],
+"version" : "1.0",
+"licence" : "GPLv2",
+"description" : 
+    {
+        "fr" : "Un plugin pour afficher les journaux d'informations, d'erreurs ou d'avertissements de l'Observateur d'événements",
+        "en" : "A plugin to display the Event Viewer's information, warning or error logs"
+    }
+}
